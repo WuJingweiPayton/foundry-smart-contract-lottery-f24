@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/foundry-devops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/foundry-devops/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/solmate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/solmate/lib/ds-test" vcs="Git" />
   </component>
 </project>
